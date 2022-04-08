@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emjio&theme=default" alt="emjio" /></p>
 <h3 align="left">Reading</h3>
-<a href="https://app.daily.dev/cabbage"><img src="https://api.daily.dev/devcards/f7ae5510048840fba888569304136448.png?r=g78" width="400" alt="emjio's Dev Card"/></a>
+<a href="https://app.daily.dev/cabbage"><img src="https://github.com/emjio/emjio/blob/master/devcard.svg" width="400" alt="emjio's Dev Card"/></a>
