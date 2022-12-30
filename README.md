@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chenlive.cc@gmail.com**
 
-- [My blog](blog-emjio.vercel.app)
+- [My blog](https://blog-emjio.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
