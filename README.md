@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [catch-fish](https://github.com/MulticoloredBlack/catch-fish)
 
-- 🌱 I’m currently learning **wsl , vim**
+- 🌱 I’m currently learning **rust , vim**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emjio](https://github.com/emjio)
 
 - 📫 How to reach me **chenlive.cc@gmail.com**
 
-- [My blog](https://cabbage.xlog.app/)
+- [My blog](http://blog.pakchoi.opscat.cn/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
